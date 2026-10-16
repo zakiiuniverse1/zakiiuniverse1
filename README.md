@@ -1,6 +1,5 @@
 # Hi my name is Ahmad Mush'ab Al Zarqawi
 
-<!--
 Saya Mahasiswa dari Universitas Muhammadiyah Surabaya, dari prodi Informatika Fakultas Teknik🫪🫪🫪🫪
 *Saya sedang belajar dasar git & github, lalu mengeksplorasi CySec & Web*
 
@@ -13,4 +12,3 @@ Keahlian : Tidur* <br>
 HTML
 
 <a href="https://www.instagram.com/zakiiii4as_/" target="blank"> Kunjungi Instagram Saya</a>
--->
